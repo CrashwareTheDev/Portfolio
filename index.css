@@ -9,7 +9,19 @@
   --color-border: #333;
   --color-muted: #666;
   --color-accent-cyan: #00ffff;
+ 
+  --primary-color: #703be7;
+  --secondary-color: #8254ea;
+  --accent-color: #ffe000;
+  --neutral-dark: #2e2c2e;
+  --neutral-light: #4a474a;
+  --background-color: #211f21;
+  --text-light: #e5e5e5;
+  --text-white: #f8f8f8;
+  --text-lavender: #c3b4f5;
+    color-scheme: dark;
 }
+
 
 * {
   margin: 0;
@@ -620,4 +632,5 @@ html {
     height: 24px;
   }
 }
+
 
